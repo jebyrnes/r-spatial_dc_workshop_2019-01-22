@@ -118,3 +118,23 @@ rename the raster files to something simpler and less cumbersome (and easier to 
 ++++would have loved to have reached time-series stuff +++
 the instructors had different styles, which made it hard to follow sometimes (I had a hard time following raster). Not everyone followed livecoding style+
 Either extend the workshop to 3 days or shorten the R review from day 1 (so we have more time for geospatial!)
+
+
+# Comments from sticky notes with number of sticky notes that echoed the same theme:
+
+What was your favorite part of the course?  
+13: liked overlaying vector and raster data  
+2: versatility of ggplot2  
+7: liked R/sf (general appreciation)  
+1: quick plotting in R (vs ArcGIS)  
+1: liked the reference materials for further self-learning  
+\
+What one thing would you like to change in this course?  
+6: get into spatial materials earlier  
+5: 3 day course / adjust balance of base R material vs. spatial material  
+4: logistics of time to copy code, files were a bit difficult to read in because of file names, number of files, files nested in folders (clean up provided data)  
+2: more general R material  
+1: more break points  
+1: more geospatial calculations and stats  
+1: example of spreadsheet of field collected data brought into R  
+1: combine R tutorials into the spatial parts to allow more time to focus one spatial components.  
